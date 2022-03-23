@@ -1,2 +1,2 @@
-# Algorithms-Assignment-2-
+# Algorithms-Assignment-2
  Hashing, Dynamic Programming, Greedy Programming
